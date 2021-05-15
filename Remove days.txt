@@ -1,0 +1,5 @@
+Remove days 
+Daily ending auctions
+remove starting time and ending time
+
+If item Not sold than price shows as Reserve
